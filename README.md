@@ -34,7 +34,6 @@
 4. Сгенерировать отчет через команду 'allure generate allure-files -o allure-report'
 5. Открыть отчет через команду 'allure open allure-report'
 
-
 ## Запуск ТОЛЬКО API тестов:
 
 Все API тесты - pytest -v test_api.py --alluredir=allure-results
